@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm **Ashish Negi**
 
 ## 🙋‍♂️ About Me
-I'm a second-year **BSc Physical Science (Computer Science)** student at **Delhi University** with a strong interest in technology and learning through hands-on projects.
+I'm a third-year **BSc Physical Science (Computer Science)** student at **Delhi University** with a strong interest in technology and learning through hands-on projects.
 
 ---
 
