@@ -9,7 +9,7 @@ I'm a third-year **BSc Physical Science (Computer Science)** student at **Delhi 
 
 - 🧑‍🎓 **Education:** BSc Physical Science (Computer Science) at Atma Ram Sanatan Dharma College  
 - 🌱 **Learning:** Web development fundamentals through real-world projects  
-- 💻 **Skills:** C++, Python, HTML, CSS, JavaScript  
+- 💻 **Skills:** C++, Python, HTML, CSS, React, JavaScript  
 - 🔧 **Tools:** Git, GitHub, VS Code  
 - 📘 **Currently Working On:** Small responsive websites and strengthening core coding skills
 
